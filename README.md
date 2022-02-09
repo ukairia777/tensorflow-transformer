@@ -1,6 +1,6 @@
 # Tensorflow-Transformer-Chatbot
-This repository contains an implementation of transformer in Tensorflow applied to chatbot.
-텐서플로우 2를 사용하여 구현한 트랜스포머
+This repository contains an implementation of transformer in Tensorflow applied to chatbot.  
+텐서플로우2를 사용하여 구현한 트랜스포머
 
 
 ## Logs
