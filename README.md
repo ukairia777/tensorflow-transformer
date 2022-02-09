@@ -1,4 +1,4 @@
-# tensorflow-transformer
+# Tensorflow-Transformer-Chatbot
 This repository contains an implementation of transformer in Tensorflow applied to chatbot.
 
 
