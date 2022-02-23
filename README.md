@@ -3,7 +3,7 @@ This repository contains an implementation of transformer in Tensorflow applied 
 텐서플로우2를 사용하여 구현한 트랜스포머.
 
 ## 참고
-[KoGPT2로 구현한 대화 챗봇](https://github.com/SKT-AI/KoGPT2)
+[KoGPT-2를 fine-tuning하여 구현한 대화 챗봇](https://github.com/ukairia777/tensorflow-kogpt2-chatbot)
 
 ## Logs
 ```
