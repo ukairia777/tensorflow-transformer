@@ -4,7 +4,7 @@
 This repository contains an implementation of transformer in Tensorflow applied to chatbot.  
 
 ## 참고
-[KoGPT-2를 fine-tuning하여 구현한 대화 챗봇](https://github.com/ukairia777/tensorflow-kogpt2-chatbot)
+동일한 데이터셋으로 학습한 챗봇 : [KoGPT-2를 fine-tuning하여 구현한 대화 챗봇](https://github.com/ukairia777/tensorflow-kogpt2-chatbot)
 
 ## Logs
 ```
